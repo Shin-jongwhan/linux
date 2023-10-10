@@ -11,3 +11,6 @@ useradd -r -u 2100 -g jhshin jhshin
 mkdir /home/jhshin
 chown jhshin: -R /home/jhshin
 ```
+### <br/>
+
+### usermod 로 home dir 설정
