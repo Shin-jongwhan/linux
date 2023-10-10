@@ -15,6 +15,7 @@ chown jhshin: -R /home/jhshin
 
 ### usermod 로 home dir 설정
 사용법
+|||
 |---|---|
 |usermod <계정> -l <바꿀 계정>|계정명을 바꿀 계정명 으로 변경합니다. (사용 비 권장)|
 usermod -c <"이름"> <계정>
