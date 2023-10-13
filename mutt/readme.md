@@ -8,7 +8,9 @@ test
 ### <br/>
 
 ### 이메일 보내는 방법
-### -a 옵션을 주면 파일을 첨부할 수 있다.
+- -a : 파일을 첨부할 수 있다.
+- -c : 참조
+- -b : 숨은 참조
 ```
 mutt -e "my_hdr From:no-reply@theragenbio.com" -s test jonghwan.shin@theragenbio.com < test.txt
 
